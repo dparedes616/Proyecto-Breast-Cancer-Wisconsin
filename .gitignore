@@ -1,6 +1,30 @@
 # Created by https://www.toptal.com/developers/gitignore/api/python,images,jupyternotebooks
 # Edit at https://www.toptal.com/developers/gitignore?templates=python,images,jupyternotebooks
 
+### MicrosoftOffice ###
+*.tmp
+
+# Word temporary
+~$*.doc*
+
+# Word Auto Backup File
+Backup of *.doc*
+
+# Excel temporary
+~$*.xls*
+
+# Excel Backup File
+*.xlk
+
+# PowerPoint temporary
+~$*.ppt*
+
+# Visio autosave temporary files
+*.~vsd*
+
+#Excel
+
+*.xlsx
 ### Images ###
 # JPEG
 *.jpg
